@@ -1,2 +1,46 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1661875356,1661875356,"Migrated from /etc/pihole/adlists.list",1662056570,136768,0,1
+2,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1661879588,1661879588,"Firebog - Suspicious",1662056571,59182,0,1
+3,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1661879597,1661879597,"Firebog - Suspicious",1661880220,57,0,2
+4,https://v.firebog.net/hosts/static/w3kbl.txt,1,1661879605,1661879605,"Firebog - Suspicious",1661880220,356,0,2
+5,https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt,1,1661879613,1661879613,"Firebog - Suspicious",1661880221,2119,0,2
+6,https://someonewhocares.org/hosts/zero/hosts,1,1661879621,1661879621,"Firebog - Suspicious",1661880227,11387,0,2
+7,https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts,1,1661879628,1661879628,"Firebog - Suspicious",1661880227,6418,0,2
+8,https://winhelp2002.mvps.org/hosts.txt,1,1661879636,1661879636,"Firebog - Suspicious",1661880228,8730,0,2
+9,https://v.firebog.net/hosts/neohostsbasic.txt,1,1661879644,1661879644,"Firebog - Suspicious",1661880228,2411,0,2
+10,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt,1,1661879651,1661879651,"Firebog - Suspicious",1661880228,63943,0,2
+11,https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt,1,1661879661,1661879661,"Firebog - Suspicious",1661880229,550,0,2
+12,https://adaway.org/hosts.txt,1,1661879687,1661879687,"Firebog - Advertising",1662056575,7193,0,1
+13,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1661879702,1661879702,"Firebog - Advertising",1661880230,3675,0,2
+14,https://v.firebog.net/hosts/Admiral.txt,1,1661879713,1661879713,"Firebog - Advertising",1661880230,636,0,2
+15,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1661879723,1661879723,"Firebog - Advertising",1661880231,42553,0,2
+16,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1661879728,1661879761,"Firebog - Advertising",1661880231,2701,0,2
+17,https://v.firebog.net/hosts/Easylist.txt,1,1661879733,1661879760,"Firebog - Advertising",1661880231,18480,0,2
+18,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1661879738,1661879759,"Firebog - Advertising",1662056578,3671,0,1
+19,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1661879743,1661879758,"Firebog - Advertising",1661880232,9,0,2
+20,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1661879747,1661879756,"Firebog - Advertising",1661880233,17392,0,2
+21,https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts,1,1661879752,1661879755,"Firebog - Advertising",1661880233,1665,0,2
+22,https://v.firebog.net/hosts/Easyprivacy.txt,1,1661879782,1661879782,"Firebog - Tracking & Telemetry",1661880233,12925,0,2
+23,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1661879798,1661879870,"Firebog - Tracking & Telemetry",1661880234,1286,0,2
+24,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1661879809,1661879873,"Firebog - Tracking & Telemetry",1661880234,347,0,2
+25,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1661879814,1661879882,"Firebog - Tracking & Telemetry",1661880236,13992,0,2
+26,https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt,1,1661879840,1661879880,"Firebog - Tracking & Telemetry",1661880237,15614,0,2
+27,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1661879846,1661879879,"Firebog - Tracking & Telemetry",1662056584,426954,0,1
+28,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt,1,1661879851,1661879878,"Firebog - Tracking & Telemetry",1661880239,80,0,2
+29,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt,1,1661879856,1661879877,"Firebog - Tracking & Telemetry",1661880239,225,0,2
+30,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt,1,1661879861,1661879876,"Firebog - Tracking & Telemetry",1661880240,17,0,2
+31,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1661879865,1661879875,"Firebog - Tracking & Telemetry",1662056586,14959,0,1
+32,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1661879898,1661879898,"Firebog - Malicious",1661880241,8343,0,2
+33,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1661879904,1661880016,"Firebog - Malicious",1662056587,59,0,1
+34,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1661879908,1661880017,"Firebog - Malicious",1661880246,2735,0,2
+35,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1661879913,1661880019,"Firebog - Malicious",1661880247,14326,0,2
+36,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1661879918,1661880021,"Firebog - Malicious",1661880247,2190,0,2
+37,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1661879923,1661880022,"Firebog - Malicious",1661880247,2046,0,2
+38,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1661879928,1661880023,"Firebog - Malicious",1662056590,111193,0,1
+39,https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt,1,1661879933,1661880025,"Firebog - Malicious",1662056590,60610,0,1
+40,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1661879937,1661880026,"Firebog - Malicious",1662056591,300,0,1
+41,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1661879942,1661880028,"Firebog - Malicious",1661880250,8147,0,2
+42,https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts,1,1661879946,1661880029,"Firebog - Malicious",1661880250,831,0,2
+43,https://urlhaus.abuse.ch/downloads/hostfile/,1,1661879951,1661880030,"Firebog - Malicious",1662056592,733,0,1
+44,https://v.firebog.net/hosts/Prigent-Malware.txt,1,1661879955,1661880031,"Firebog - Malicious",1661880252,61316,0,2
+45,https://v.firebog.net/hosts/Shalla-mal.txt,1,1661879960,1661880033,"Firebog - Malicious",1661880253,19239,0,2
